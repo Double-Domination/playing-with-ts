@@ -1,0 +1,14 @@
+#app {
+}
+
+#output {
+  border: 3px double violet;
+}
+
+.sidenote {
+  background-color: gray;
+}
+
+.nan{
+  display: none;
+}
